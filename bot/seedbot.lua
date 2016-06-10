@@ -229,7 +229,7 @@ function create_config( )
     "tophoto";
     "sticker";
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {72609318,199471668,222499735,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -325,6 +325,7 @@ This command will send text to [group_id]
 
 » Only owner can use res,setowner,promote,demote and log commands
 
+Channel:@Telewolf_ch
 ]],
     help_text = [[
 Commands list :
